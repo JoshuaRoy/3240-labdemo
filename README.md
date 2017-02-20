@@ -1,1 +1,1 @@
-# 3240-labdemo
+# CS3240-labdemo
